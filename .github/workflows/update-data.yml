@@ -1,0 +1,53 @@
+name: Update data
+
+on:
+  schedule:
+    - cron: "5 21 * * *"       # daily 07:05 Brisbane: baseline check
+    - cron: "40 0,1 * * 1-5"   # ABS releases at 11:30 Canberra time (00:30 UTC AEDT / 01:30 UTC AEST)
+    - cron: "45 3,4 * * 1-5"   # RBA decisions at 2:30 pm Sydney time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Rule tests
+        run: python -m unittest discover -s tests
+      - name: Fetch and calculate
+        id: upd
+        run: python scripts/update_data.py
+      - name: Commit data
+        env:
+          DATA_CHANGED: ${{ steps.upd.outputs.data_changed }}
+          ERRORS: ${{ steps.upd.outputs.errors }}
+          EVENT: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          # Status-only updates are committed once a day, on manual runs, or when a source fails.
+          if [ "$DATA_CHANGED" != "true" ] && [ "$ERRORS" = "0" ] && [ "$EVENT" = "schedule" ] && [ "$SCHEDULE" != "5 21 * * *" ]; then
+            echo "Status-only change; skipping commit"; exit 0
+          fi
+          git commit -m "data: update $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
+      - name: Flag source errors
+        if: steps.upd.outputs.errors != '0'
+        run: |
+          echo "::error::One or more sources failed. Last verified data kept; see data/latest.json errors."
+          exit 1
