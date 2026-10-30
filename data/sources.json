@@ -1,0 +1,113 @@
+{
+ "ABS_NA_KEY": {
+  "publisher": "ABS",
+  "title": "Australian National Accounts: National Income, Expenditure and Product",
+  "last_check_at": "2026-10-30T10:28:42.046801+00:00",
+  "state": "current",
+  "last_error": null,
+  "content_hash": "d84e0247621ed23e72889a7ae15d9f64c078adff79d3a30031a5ce8ccd18bd2d",
+  "last_success_at": "2026-10-30T10:28:42.046801+00:00",
+  "parser_version": "0.1.0",
+  "series_meta": {
+   "gdp_real_level": {
+    "description": "Gross domestic product: Chain volume measures ;",
+    "unit": "$ Millions",
+    "series_type": "Seasonally Adjusted",
+    "data_type": "DERIVED",
+    "frequency": "Quarter"
+   },
+   "gdp_real_qoq_published": {
+    "description": "Gross domestic product: Chain volume measures - Percentage changes ;",
+    "unit": "Percent",
+    "series_type": "Seasonally Adjusted",
+    "data_type": "DERIVED",
+    "frequency": "Quarter"
+   },
+   "gdp_pc_real_level": {
+    "description": "GDP per capita: Chain volume measures ;",
+    "unit": "$",
+    "series_type": "Seasonally Adjusted",
+    "data_type": "DERIVED",
+    "frequency": "Quarter"
+   },
+   "gdp_pc_real_qoq_published": {
+    "description": "GDP per capita: Chain volume measures - Percentage changes ;",
+    "unit": "Percent",
+    "series_type": "Seasonally Adjusted",
+    "data_type": "DERIVED",
+    "frequency": "Quarter"
+   },
+   "household_saving_ratio": {
+    "description": "Household saving ratio: Ratio ;",
+    "unit": "proportion",
+    "series_type": "Seasonally Adjusted",
+    "data_type": "DERIVED",
+    "frequency": "Quarter"
+   },
+   "terms_of_trade_index": {
+    "description": "Terms of trade: Index ;",
+    "unit": "Index Numbers",
+    "series_type": "Seasonally Adjusted",
+    "data_type": "DERIVED",
+    "frequency": "Quarter"
+   },
+   "terms_of_trade_qoq": {
+    "description": "Terms of trade: Index - Percentage changes ;",
+    "unit": "Percent",
+    "series_type": "Seasonally Adjusted",
+    "data_type": "DERIVED",
+    "frequency": "Quarter"
+   }
+  },
+  "download_url": "https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-national-income-expenditure-and-product/jun-2026/5206001_Key_Aggregates.xlsx",
+  "release_at": "2026-09-02T11:30:00+10:00",
+  "reference_period": "June 2026",
+  "next_release_date": "2026-12-02",
+  "final_url": "https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-national-income-expenditure-and-product/jun-2026/5206001_Key_Aggregates.xlsx"
+ },
+ "ABS_LF_MAIN": {
+  "publisher": "ABS",
+  "title": "Labour Force, Australia (Table 1)",
+  "last_check_at": "2026-10-30T10:28:42.046801+00:00",
+  "state": "current",
+  "last_error": null,
+  "content_hash": "aed82b36e76964bfc160306c8d3f469e552f96be40c56b877394015ec556cc94",
+  "last_success_at": "2026-10-30T10:28:42.046801+00:00",
+  "parser_version": "0.1.0",
+  "series_meta": {
+   "unemployment_rate": {
+    "description": "Unemployment rate ;  Persons ;",
+    "unit": "Percent",
+    "series_type": "Seasonally Adjusted",
+    "data_type": "PERCENT",
+    "frequency": "Month"
+   },
+   "employment_level": {
+    "description": "Employed total ;  Persons ;",
+    "unit": "000",
+    "series_type": "Seasonally Adjusted",
+    "data_type": "STOCK",
+    "frequency": "Month"
+   },
+   "employment_population_ratio": {
+    "description": "Employment to population ratio ;  Persons ;",
+    "unit": "Percent",
+    "series_type": "Seasonally Adjusted",
+    "data_type": "PERCENT",
+    "frequency": "Month"
+   }
+  },
+  "download_url": "https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/sep-2026/62020001.xlsx",
+  "release_at": "2026-10-15T11:30:00+11:00",
+  "reference_period": "September 2026",
+  "next_release_date": "2026-11-19",
+  "final_url": "https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/sep-2026/62020001.xlsx"
+ },
+ "RBA_F1": {
+  "publisher": "RBA",
+  "title": "RBA Statistical Table F1.1 Interest Rates and Yields - Money Market",
+  "last_check_at": "2026-10-30T10:28:42.046801+00:00",
+  "state": "parse_failed",
+  "last_error": "ValueError: series not found in workbook: ['FIRMMCRTD']"
+ }
+}
