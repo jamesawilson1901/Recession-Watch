@@ -93,7 +93,7 @@ def discover_abs(landing_html, file_pattern, base="https://www.abs.gov.au"):
     temporal = re.search(r'name="dcterms\.temporal"\s+content="([^"]+)"', landing_html)
     if temporal:
         meta["reference_period"] = temporal.group(1)
-    nxt = re.search(r"Next release[^0-9]{0,200}?(\d{1,2})/(\d{1,2})/(\d{4})", landing_html, re.S)
+    nxt = re.search(r"Next release[^0-9]{0,200}?(\d{1,2})/(\d{1,2})/(\d{4})", landing_html, re.S | re.I)
     if nxt:
         d, mo, y = map(int, nxt.groups())
         meta["next_release_date"] = dt.date(y, mo, d).isoformat()  # date only; time not verified

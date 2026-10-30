@@ -148,9 +148,11 @@ class TestParser(unittest.TestCase):
 
     def test_discover_abs(self):
         html = ('<meta name="dcterms.issued" content="Thu, 15/10/2026 - 11:30" />'
-                '<a href="/statistics/labour/x/sep-2026/62020001.xlsx">t</a>')
+                '<a href="/statistics/labour/x/sep-2026/62020001.xlsx">t</a>'
+                '<div>Released</div><div>15/10/2026</div><div>Next Release</div><div>19/11/2026</div>')
         m = update_data.discover_abs(html, r"62020001\.xlsx")
         self.assertTrue(m["download_url"].endswith("sep-2026/62020001.xlsx"))
+        self.assertEqual(m["next_release_date"], "2026-11-19")
         # 11:30 AEDT Sydney == 10:30 Brisbane
         when = dt.datetime.fromisoformat(m["release_at"]).astimezone(update_data.BRISBANE)
         self.assertEqual((when.hour, when.minute), (10, 30))
