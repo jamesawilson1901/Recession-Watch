@@ -1,11 +1,11 @@
 {
  "schema": "arw-latest/1",
- "generated_at": "2026-11-18T12:16:57.322998+00:00",
- "generated_at_brisbane": "18 Nov 2026 22:16 AEST",
+ "generated_at": "2026-11-19T02:29:39.772329+00:00",
+ "generated_at_brisbane": "19 Nov 2026 12:29 AEST",
  "signal_index": {
   "id": "SIGNAL-INDEX",
   "version": "0.1.0-experimental",
-  "value": 27.1,
+  "value": 30.0,
   "weights": {
    "gdp_2q": 0.4,
    "sahm": 0.3,
@@ -14,7 +14,7 @@
   },
   "inputs": {
    "gdp_2q": 0.0,
-   "sahm": 90.36571333333333,
+   "sahm": 100.0,
    "gdppc_2q": 0.0,
    "emp_3m": 0.0
   },
@@ -32,7 +32,7 @@
     "id": 2,
     "name": "Business & jobs breakpoint",
     "check": "Employment 3-month average falling, or unemployment Sahm gap at or above 0.50 pp (insolvency data pending)",
-    "observed": false
+    "observed": true
    },
    {
     "id": 3,
@@ -41,7 +41,7 @@
     "observed": false
    }
   ],
-  "current_phase": 0,
+  "current_phase": 2,
   "note": "Scenario mapping of the original infographic onto observed data. Not a forecast or countdown."
  },
  "indicators": {
@@ -478,191 +478,187 @@
    ]
   },
   "unemployment": {
-   "latest_period": "2026-09",
-   "value": 4.7183487,
-   "pp_change": 0.0667,
-   "pp_change_annual": 0.292,
+   "latest_period": "2026-10",
+   "value": 4.8648326,
+   "pp_change": 0.1229,
+   "pp_change_annual": 0.5661,
    "rule": {
     "id": "R-SAHM-AU-050",
     "version": "0.1.0",
-    "gap_pp": 0.4518,
+    "gap_pp": 0.5968,
     "threshold_pp": 0.5,
     "alt_threshold_pp": 0.75,
-    "met": false,
-    "proximity": 90.36571333333333,
-    "proximity_alt": 60.243808888888886,
+    "met": true,
+    "proximity": 100.0,
+    "proximity_alt": 79.57565777777778,
     "status": "experimental"
    },
    "history": [
     [
-     "2023-10",
-     3.7727774
-    ],
-    [
      "2023-11",
-     3.9297428
+     3.9227748
     ],
     [
      "2023-12",
-     3.9881775
+     3.9812233
     ],
     [
      "2024-01",
-     4.0941517
+     4.0896704
     ],
     [
      "2024-02",
-     3.7434593
+     3.7412899
     ],
     [
      "2024-03",
-     3.9059211
+     3.9049823
     ],
     [
      "2024-04",
-     4.0903018
+     4.0897709
     ],
     [
      "2024-05",
-     4.0160129
+     4.0172516
     ],
     [
      "2024-06",
-     4.0499262
+     4.0526454
     ],
     [
      "2024-07",
-     4.2148366
+     4.2228194
     ],
     [
      "2024-08",
-     4.1089735
+     4.1172642
     ],
     [
      "2024-09",
-     4.0052616
+     4.0206312
     ],
     [
      "2024-10",
-     4.0825729
+     4.066587
     ],
     [
      "2024-11",
-     3.9326797
+     3.9240058
     ],
     [
      "2024-12",
-     3.9981909
+     3.990356
     ],
     [
      "2025-01",
-     4.128545
+     4.1233793
     ],
     [
      "2025-02",
-     4.0752019
+     4.0726657
     ],
     [
      "2025-03",
-     4.084888
+     4.0838635
     ],
     [
      "2025-04",
-     4.0639865
+     4.0638779
     ],
     [
      "2025-05",
-     4.1131046
+     4.1150474
     ],
     [
      "2025-06",
-     4.3379167
+     4.3409221
     ],
     [
      "2025-07",
-     4.2626891
+     4.2726174
     ],
     [
      "2025-08",
-     4.2227868
+     4.2333856
     ],
     [
      "2025-09",
-     4.4263409
+     4.4454003
     ],
     [
      "2025-10",
-     4.3187263
+     4.2987285
     ],
     [
      "2025-11",
-     4.3143996
+     4.3033109
     ],
     [
      "2025-12",
-     4.1153074
+     4.1061473
     ],
     [
      "2026-01",
-     4.0816581
+     4.076085
     ],
     [
      "2026-02",
-     4.3066834
+     4.3039639
     ],
     [
      "2026-03",
-     4.2903127
+     4.2892754
     ],
     [
      "2026-04",
-     4.5014849
+     4.5016238
     ],
     [
      "2026-05",
-     4.3935444
+     4.3959021
     ],
     [
      "2026-06",
-     4.4493704
+     4.4538309
     ],
     [
      "2026-07",
-     4.489178
+     4.5012779
     ],
     [
      "2026-08",
-     4.6516079
+     4.6692747
     ],
     [
      "2026-09",
-     4.7183487
+     4.7418882
+    ],
+    [
+     "2026-10",
+     4.8648326
     ]
    ],
    "gap_history": [
     [
-     "2024-10",
-     0.4019
-    ],
-    [
      "2024-11",
-     0.2547
+     0.2539
     ],
     [
      "2024-12",
-     0.1076
+     0.1052
     ],
     [
      "2025-01",
-     0.1066
+     0.1006
     ],
     [
      "2025-02",
-     0.1541
+     0.1502
     ],
     [
      "2025-03",
-     0.183
+     0.1813
     ],
     [
      "2025-04",
@@ -670,47 +666,47 @@
     ],
     [
      "2025-05",
-     0.0832
+     0.0939
     ],
     [
      "2025-06",
-     0.1672
+     0.1796
     ],
     [
      "2025-07",
-     0.2334
+     0.2492
     ],
     [
      "2025-08",
-     0.27
+     0.2887
     ],
     [
      "2025-09",
-     0.2995
+     0.3235
     ],
     [
      "2025-10",
-     0.3181
+     0.3322
     ],
     [
      "2025-11",
-     0.3487
+     0.3555
     ],
     [
      "2025-12",
-     0.245
+     0.2424
     ],
     [
      "2026-01",
-     0.1506
+     0.1493
     ],
     [
      "2026-02",
-     0.1006
+     0.0999
     ],
     [
      "2026-03",
-     0.1515
+     0.1496
     ],
     [
      "2026-04",
@@ -718,286 +714,290 @@
     ],
     [
      "2026-05",
-     0.3078
+     0.308
     ],
     [
      "2026-06",
-     0.2803
+     0.2886
     ],
     [
      "2026-07",
-     0.2761
+     0.2885
     ],
     [
      "2026-08",
-     0.3622
+     0.3796
     ],
     [
      "2026-09",
-     0.4518
+     0.4756
+    ],
+    [
+     "2026-10",
+     0.5968
     ]
    ]
   },
   "employment": {
-   "latest_period": "2026-09",
-   "value": 14782.6697973,
-   "mom_change_pct": -0.2653,
+   "latest_period": "2026-10",
+   "value": 14738.6373622,
+   "mom_change_pct": -0.2945,
    "rule": {
     "id": "R-EMP-3M",
     "version": "0.1.0",
-    "change_3m_pct": 0.352,
+    "change_3m_pct": 0.0305,
     "met": false,
     "proximity": 0.0,
     "status": "experimental"
    },
    "history": [
     [
-     "2024-10",
-     0.7444
-    ],
-    [
      "2024-11",
-     0.6087
+     0.6349
     ],
     [
      "2024-12",
-     0.4402
+     0.4668
     ],
     [
      "2025-01",
-     0.4939
+     0.492
     ],
     [
      "2025-02",
-     0.369
+     0.358
     ],
     [
      "2025-03",
-     0.1992
+     0.1773
     ],
     [
      "2025-04",
-     0.1153
+     0.0953
     ],
     [
      "2025-05",
-     0.3962
+     0.3792
     ],
     [
      "2025-06",
-     0.5715
+     0.556
     ],
     [
      "2025-07",
-     0.4536
+     0.4401
     ],
     [
      "2025-08",
-     0.1774
+     0.1748
     ],
     [
      "2025-09",
-     0.1401
+     0.149
     ],
     [
      "2025-10",
-     0.2023
+     0.2425
     ],
     [
      "2025-11",
-     0.2088
+     0.2455
     ],
     [
      "2025-12",
-     0.2081
+     0.2419
     ],
     [
      "2026-01",
-     0.2387
+     0.2326
     ],
     [
      "2026-02",
-     0.4796
+     0.4616
     ],
     [
      "2026-03",
-     0.545
+     0.5169
     ],
     [
      "2026-04",
-     0.4386
+     0.4162
     ],
     [
      "2026-05",
-     0.2143
+     0.1959
     ],
     [
      "2026-06",
-     0.1978
+     0.1797
     ],
     [
      "2026-07",
-     0.4059
+     0.3897
     ],
     [
      "2026-08",
-     0.5725
+     0.5576
     ],
     [
      "2026-09",
-     0.352
+     0.3499
+    ],
+    [
+     "2026-10",
+     0.0305
     ]
    ]
   },
   "employment_population": {
-   "latest_period": "2026-09",
-   "value": 63.6130534,
-   "pp_change": -0.2666,
-   "pp_change_annual": -0.344,
+   "latest_period": "2026-10",
+   "value": 63.3461152,
+   "pp_change": -0.2648,
+   "pp_change_annual": -0.7108,
    "history": [
     [
-     "2023-10",
-     64.2649395
-    ],
-    [
      "2023-11",
-     64.3590498
+     64.370086
     ],
     [
      "2023-12",
-     64.0012373
+     64.0087897
     ],
     [
      "2024-01",
-     63.842148
+     63.8498429
     ],
     [
      "2024-02",
-     64.1779312
+     64.1777478
     ],
     [
      "2024-03",
-     63.9378084
+     63.9351753
     ],
     [
      "2024-04",
-     64.0200864
+     64.0165416
     ],
     [
      "2024-05",
-     64.0700356
+     64.0639139
     ],
     [
      "2024-06",
-     64.0946999
+     64.0850459
     ],
     [
      "2024-07",
-     64.262883
+     64.2514933
     ],
     [
      "2024-08",
-     64.3050341
+     64.3130868
     ],
     [
      "2024-09",
-     64.3937586
+     64.392613
     ],
     [
      "2024-10",
-     64.2975468
+     64.3232882
     ],
     [
      "2024-11",
-     64.2831384
+     64.2957042
     ],
     [
      "2024-12",
-     64.407681
+     64.4160858
     ],
     [
      "2025-01",
-     64.4183749
+     64.4265503
     ],
     [
      "2025-02",
-     63.9506817
+     63.9501605
     ],
     [
      "2025-03",
-     63.9697787
+     63.9664645
     ],
     [
      "2025-04",
-     64.3514012
+     64.3458066
     ],
     [
      "2025-05",
-     64.2331549
+     64.2256127
     ],
     [
      "2025-06",
-     64.0447693
+     64.0325444
     ],
     [
      "2025-07",
-     64.1463986
+     64.1309171
     ],
     [
      "2025-08",
-     63.9835109
+     63.9899041
     ],
     [
      "2025-09",
-     63.9570114
+     63.9579457
     ],
     [
      "2025-10",
-     64.0224461
+     64.0568858
     ],
     [
      "2025-11",
-     63.7602281
+     63.7739433
     ],
     [
      "2025-12",
-     63.9322636
+     63.9406447
     ],
     [
      "2026-01",
-     63.9608498
+     63.9689232
     ],
     [
      "2026-02",
-     63.9404605
+     63.9387928
     ],
     [
      "2026-03",
-     63.9152944
+     63.911744
     ],
     [
      "2026-04",
-     63.6713324
+     63.6641116
     ],
     [
      "2026-05",
-     63.7573535
+     63.7479092
     ],
     [
      "2026-06",
-     64.0223822
+     64.0073123
     ],
     [
      "2026-07",
-     63.8509037
+     63.8320784
     ],
     [
      "2026-08",
-     63.8796533
+     63.8648674
     ],
     [
      "2026-09",
-     63.6130534
+     63.6108945
+    ],
+    [
+     "2026-10",
+     63.3461152
     ]
    ]
   }
@@ -1006,7 +1006,7 @@
   "ABS_NA_KEY": {
    "publisher": "ABS",
    "title": "Australian National Accounts: National Income, Expenditure and Product",
-   "last_check_at": "2026-11-18T12:16:57.322998+00:00",
+   "last_check_at": "2026-11-19T02:29:39.772329+00:00",
    "state": "current",
    "last_error": null,
    "content_hash": "d84e0247621ed23e72889a7ae15d9f64c078adff79d3a30031a5ce8ccd18bd2d",
@@ -1021,27 +1021,268 @@
   "ABS_LF_MAIN": {
    "publisher": "ABS",
    "title": "Labour Force, Australia (Table 1)",
-   "last_check_at": "2026-11-18T12:16:57.322998+00:00",
+   "last_check_at": "2026-11-19T02:29:39.772329+00:00",
    "state": "current",
    "last_error": null,
-   "content_hash": "aed82b36e76964bfc160306c8d3f469e552f96be40c56b877394015ec556cc94",
-   "last_success_at": "2026-10-30T10:28:42.046801+00:00",
+   "content_hash": "452189c344f08466c58c8d61280dffb5375f5a3f469471794580dd4a4112402f",
+   "last_success_at": "2026-11-19T02:29:39.772329+00:00",
    "parser_version": "0.1.0",
-   "download_url": "https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/sep-2026/62020001.xlsx",
-   "release_at": "2026-10-15T11:30:00+11:00",
-   "reference_period": "September 2026",
-   "next_release_date": "2026-11-19",
-   "final_url": "https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/sep-2026/62020001.xlsx"
+   "download_url": "https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/oct-2026/62020001.xlsx",
+   "release_at": "2026-11-19T11:30:00+11:00",
+   "reference_period": "October 2026",
+   "next_release_date": "2026-12-17",
+   "final_url": "https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/oct-2026/62020001.xlsx"
   },
   "RBA_F1": {
    "publisher": "RBA",
    "title": "RBA Statistical Table F1.1 Interest Rates and Yields - Money Market",
-   "last_check_at": "2026-11-18T12:16:57.322998+00:00",
+   "last_check_at": "2026-11-19T02:29:39.772329+00:00",
    "state": "parse_failed",
    "last_error": "ValueError: series not found in workbook: ['FIRMMCRTD']"
   }
  },
- "revisions": [],
+ "revisions": [
+  {
+   "series": "employment_population_ratio",
+   "period": "2024-04-01",
+   "old": 64.0200864,
+   "new": 64.0165416,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2024-05-01",
+   "old": 64.0700356,
+   "new": 64.0639139,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2024-06-01",
+   "old": 64.0946999,
+   "new": 64.0850459,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2024-07-01",
+   "old": 64.262883,
+   "new": 64.2514933,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2024-08-01",
+   "old": 64.3050341,
+   "new": 64.3130868,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2024-09-01",
+   "old": 64.3937586,
+   "new": 64.392613,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2024-10-01",
+   "old": 64.2975468,
+   "new": 64.3232882,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2024-11-01",
+   "old": 64.2831384,
+   "new": 64.2957042,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2024-12-01",
+   "old": 64.407681,
+   "new": 64.4160858,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2025-01-01",
+   "old": 64.4183749,
+   "new": 64.4265503,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2025-02-01",
+   "old": 63.9506817,
+   "new": 63.9501605,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2025-03-01",
+   "old": 63.9697787,
+   "new": 63.9664645,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2025-04-01",
+   "old": 64.3514012,
+   "new": 64.3458066,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2025-05-01",
+   "old": 64.2331549,
+   "new": 64.2256127,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2025-06-01",
+   "old": 64.0447693,
+   "new": 64.0325444,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2025-07-01",
+   "old": 64.1463986,
+   "new": 64.1309171,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2025-08-01",
+   "old": 63.9835109,
+   "new": 63.9899041,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2025-09-01",
+   "old": 63.9570114,
+   "new": 63.9579457,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2025-10-01",
+   "old": 64.0224461,
+   "new": 64.0568858,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2025-11-01",
+   "old": 63.7602281,
+   "new": 63.7739433,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2025-12-01",
+   "old": 63.9322636,
+   "new": 63.9406447,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2026-01-01",
+   "old": 63.9608498,
+   "new": 63.9689232,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2026-02-01",
+   "old": 63.9404605,
+   "new": 63.9387928,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2026-03-01",
+   "old": 63.9152944,
+   "new": 63.911744,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2026-04-01",
+   "old": 63.6713324,
+   "new": 63.6641116,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2026-05-01",
+   "old": 63.7573535,
+   "new": 63.7479092,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2026-06-01",
+   "old": 64.0223822,
+   "new": 64.0073123,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2026-07-01",
+   "old": 63.8509037,
+   "new": 63.8320784,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2026-08-01",
+   "old": 63.8796533,
+   "new": 63.8648674,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  },
+  {
+   "series": "employment_population_ratio",
+   "period": "2026-09-01",
+   "old": 63.6130534,
+   "new": 63.6108945,
+   "source": "ABS_LF_MAIN",
+   "detected_at": "2026-11-19T02:29:39.772329+00:00"
+  }
+ ],
  "errors": [
   "RBA_F1: ValueError: series not found in workbook: ['FIRMMCRTD']"
  ]

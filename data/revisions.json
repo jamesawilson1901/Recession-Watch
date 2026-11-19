@@ -1,1 +1,1602 @@
-[]
+[
+ {
+  "series": "employment_population_ratio",
+  "period": "2010-02-01",
+  "old": 61.7500902,
+  "new": 61.7502846,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2010-03-01",
+  "old": 61.6763155,
+  "new": 61.6766673,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2010-04-01",
+  "old": 61.6743246,
+  "new": 61.6746167,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2010-05-01",
+  "old": 61.6140042,
+  "new": 61.6142014,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2010-06-01",
+  "old": 61.8495658,
+  "new": 61.8496283,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2010-07-01",
+  "old": 61.9228582,
+  "new": 61.9226692,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2010-08-01",
+  "old": 62.0816817,
+  "new": 62.0799662,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2010-09-01",
+  "old": 62.1605759,
+  "new": 62.1606712,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2010-10-01",
+  "old": 62.1834749,
+  "new": 62.1836782,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2010-11-01",
+  "old": 62.4376551,
+  "new": 62.437693,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2010-12-01",
+  "old": 62.399547,
+  "new": 62.3996932,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2011-01-01",
+  "old": 62.4872105,
+  "new": 62.4874533,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2011-02-01",
+  "old": 62.2488435,
+  "new": 62.249087,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2011-03-01",
+  "old": 62.3709283,
+  "new": 62.3714334,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2011-04-01",
+  "old": 62.1136309,
+  "new": 62.1140858,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2011-05-01",
+  "old": 61.9855628,
+  "new": 61.9859354,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2011-06-01",
+  "old": 62.0935469,
+  "new": 62.0938214,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2011-07-01",
+  "old": 62.0401939,
+  "new": 62.0401986,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2011-08-01",
+  "old": 62.0045411,
+  "new": 62.001134,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2011-09-01",
+  "old": 62.0867636,
+  "new": 62.0870905,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2011-10-01",
+  "old": 62.0111492,
+  "new": 62.011541,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2011-11-01",
+  "old": 61.9357785,
+  "new": 61.9358947,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2011-12-01",
+  "old": 61.7279243,
+  "new": 61.7281588,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2012-01-01",
+  "old": 62.0405459,
+  "new": 62.0409531,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2012-02-01",
+  "old": 61.7293212,
+  "new": 61.7296393,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2012-03-01",
+  "old": 61.9569657,
+  "new": 61.9576422,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2012-04-01",
+  "old": 61.8065916,
+  "new": 61.8072431,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2012-05-01",
+  "old": 61.9496556,
+  "new": 61.9502491,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2012-06-01",
+  "old": 61.7238646,
+  "new": 61.7244378,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2012-07-01",
+  "old": 61.6864694,
+  "new": 61.6868062,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2012-08-01",
+  "old": 61.6465349,
+  "new": 61.6409135,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2012-09-01",
+  "old": 61.7305614,
+  "new": 61.7311428,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2012-10-01",
+  "old": 61.6513217,
+  "new": 61.6518919,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2012-11-01",
+  "old": 61.5342584,
+  "new": 61.5345547,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2012-12-01",
+  "old": 61.5138115,
+  "new": 61.5142,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2013-01-01",
+  "old": 61.807443,
+  "new": 61.8080902,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2013-02-01",
+  "old": 61.697308,
+  "new": 61.6977324,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2013-03-01",
+  "old": 61.4155816,
+  "new": 61.4164326,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2013-04-01",
+  "old": 61.5076202,
+  "new": 61.5084608,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2013-05-01",
+  "old": 61.376939,
+  "new": 61.377737,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2013-06-01",
+  "old": 61.3642486,
+  "new": 61.3650878,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2013-07-01",
+  "old": 61.2117059,
+  "new": 61.2123239,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2013-08-01",
+  "old": 61.1179026,
+  "new": 61.1100604,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2013-09-01",
+  "old": 61.1355126,
+  "new": 61.1362716,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2013-10-01",
+  "old": 61.0547635,
+  "new": 61.0555645,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2013-11-01",
+  "old": 60.8792446,
+  "new": 60.8797637,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2013-12-01",
+  "old": 60.6593952,
+  "new": 60.659928,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2014-01-01",
+  "old": 60.7378516,
+  "new": 60.7386256,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2014-02-01",
+  "old": 60.7701994,
+  "new": 60.7713457,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2014-03-01",
+  "old": 60.9509547,
+  "new": 60.9519665,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2014-04-01",
+  "old": 60.9209855,
+  "new": 60.9220511,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2014-05-01",
+  "old": 60.7304677,
+  "new": 60.7314739,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2014-06-01",
+  "old": 60.7552608,
+  "new": 60.7562736,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2014-07-01",
+  "old": 60.7684499,
+  "new": 60.7697862,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2014-08-01",
+  "old": 60.6991516,
+  "new": 60.6989883,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2014-09-01",
+  "old": 60.6288325,
+  "new": 60.6298541,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2014-10-01",
+  "old": 60.5337896,
+  "new": 60.5350131,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2014-11-01",
+  "old": 60.4677593,
+  "new": 60.4691615,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2014-12-01",
+  "old": 60.6976333,
+  "new": 60.6982877,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2015-01-01",
+  "old": 60.6534342,
+  "new": 60.6544397,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2015-02-01",
+  "old": 60.9009999,
+  "new": 60.9022269,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2015-03-01",
+  "old": 60.9105768,
+  "new": 60.9116731,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2015-04-01",
+  "old": 60.8416965,
+  "new": 60.8429619,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2015-05-01",
+  "old": 60.9970448,
+  "new": 60.9982549,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2015-06-01",
+  "old": 60.9042195,
+  "new": 60.9052842,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2015-07-01",
+  "old": 61.0024571,
+  "new": 61.004003,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2015-08-01",
+  "old": 60.9519326,
+  "new": 60.958697,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2015-09-01",
+  "old": 60.9746564,
+  "new": 60.9758164,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2015-10-01",
+  "old": 61.3016722,
+  "new": 61.3034689,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2015-11-01",
+  "old": 61.4043718,
+  "new": 61.4058667,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2015-12-01",
+  "old": 61.4095549,
+  "new": 61.4103111,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2016-01-01",
+  "old": 61.3300254,
+  "new": 61.3312582,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2016-02-01",
+  "old": 61.29754,
+  "new": 61.2989077,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2016-03-01",
+  "old": 61.273875,
+  "new": 61.2750417,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2016-04-01",
+  "old": 61.2372021,
+  "new": 61.2387013,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2016-05-01",
+  "old": 61.1364837,
+  "new": 61.1378574,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2016-06-01",
+  "old": 61.1751761,
+  "new": 61.1762681,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2016-07-01",
+  "old": 61.2529748,
+  "new": 61.254609,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2016-08-01",
+  "old": 60.9549208,
+  "new": 60.9604764,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2016-09-01",
+  "old": 60.796515,
+  "new": 60.7978972,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2016-10-01",
+  "old": 60.8141514,
+  "new": 60.8165874,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2016-11-01",
+  "old": 60.8743918,
+  "new": 60.8759629,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2016-12-01",
+  "old": 60.9542797,
+  "new": 60.9551788,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2017-01-01",
+  "old": 60.9497897,
+  "new": 60.9512784,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2017-02-01",
+  "old": 60.7154619,
+  "new": 60.7169254,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2017-03-01",
+  "old": 60.9082655,
+  "new": 60.9094018,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2017-04-01",
+  "old": 61.1268623,
+  "new": 61.1284091,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2017-05-01",
+  "old": 61.2183774,
+  "new": 61.2197758,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2017-06-01",
+  "old": 61.3106767,
+  "new": 61.3117666,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2017-07-01",
+  "old": 61.4052924,
+  "new": 61.4067085,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2017-08-01",
+  "old": 61.5639853,
+  "new": 61.568439,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2017-09-01",
+  "old": 61.6805557,
+  "new": 61.6821358,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2017-10-01",
+  "old": 61.6353014,
+  "new": 61.6381943,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2017-11-01",
+  "old": 61.7904526,
+  "new": 61.7922475,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2017-12-01",
+  "old": 61.8776618,
+  "new": 61.8788028,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2018-01-01",
+  "old": 61.9621222,
+  "new": 61.963974,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2018-02-01",
+  "old": 61.7727692,
+  "new": 61.7744251,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2018-03-01",
+  "old": 61.7632305,
+  "new": 61.7643444,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2018-04-01",
+  "old": 61.781587,
+  "new": 61.7829461,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2018-05-01",
+  "old": 61.6700709,
+  "new": 61.671358,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2018-06-01",
+  "old": 61.9431876,
+  "new": 61.9441213,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2018-07-01",
+  "old": 61.8540085,
+  "new": 61.8549463,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2018-08-01",
+  "old": 62.0698503,
+  "new": 62.0736118,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2018-09-01",
+  "old": 62.0581831,
+  "new": 62.0604184,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2018-10-01",
+  "old": 62.0997497,
+  "new": 62.1029236,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2018-11-01",
+  "old": 62.1272492,
+  "new": 62.1292263,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2018-12-01",
+  "old": 62.1840055,
+  "new": 62.1856205,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2019-01-01",
+  "old": 62.2936253,
+  "new": 62.29598,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2019-02-01",
+  "old": 62.2371419,
+  "new": 62.2389604,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2019-03-01",
+  "old": 62.2450255,
+  "new": 62.246032,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2019-04-01",
+  "old": 62.3650862,
+  "new": 62.3660459,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2019-05-01",
+  "old": 62.3343832,
+  "new": 62.3351473,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2019-06-01",
+  "old": 62.3352717,
+  "new": 62.3356103,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2019-07-01",
+  "old": 62.400765,
+  "new": 62.4012969,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2019-08-01",
+  "old": 62.5290686,
+  "new": 62.5329871,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2019-09-01",
+  "old": 62.5367373,
+  "new": 62.5393561,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2019-10-01",
+  "old": 62.219838,
+  "new": 62.2232895,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2019-11-01",
+  "old": 62.2441702,
+  "new": 62.2466458,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2019-12-01",
+  "old": 62.4102657,
+  "new": 62.4121887,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2020-01-01",
+  "old": 62.3452244,
+  "new": 62.3483975,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2020-02-01",
+  "old": 62.2439736,
+  "new": 62.2461025,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2020-03-01",
+  "old": 62.1220454,
+  "new": 62.1229534,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2020-04-01",
+  "old": 59.3200658,
+  "new": 59.3203642,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2020-05-01",
+  "old": 57.8795211,
+  "new": 57.8795224,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2020-06-01",
+  "old": 58.9554196,
+  "new": 58.9548423,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2020-07-01",
+  "old": 59.621079,
+  "new": 59.6210101,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2020-08-01",
+  "old": 60.2827158,
+  "new": 60.2868274,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2020-09-01",
+  "old": 60.1402599,
+  "new": 60.143322,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2020-10-01",
+  "old": 60.7966283,
+  "new": 60.8004744,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2020-11-01",
+  "old": 61.1947136,
+  "new": 61.1978639,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2020-12-01",
+  "old": 61.4595727,
+  "new": 61.4621478,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2021-01-01",
+  "old": 61.647406,
+  "new": 61.6518102,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2021-02-01",
+  "old": 61.8771112,
+  "new": 61.8796224,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2021-03-01",
+  "old": 62.1473761,
+  "new": 62.1473352,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2021-04-01",
+  "old": 62.0920952,
+  "new": 62.0920463,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2021-05-01",
+  "old": 62.4949597,
+  "new": 62.4938999,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2021-06-01",
+  "old": 62.5627316,
+  "new": 62.5605094,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2021-07-01",
+  "old": 62.6700622,
+  "new": 62.6684286,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2021-08-01",
+  "old": 62.0165677,
+  "new": 62.0230532,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2021-09-01",
+  "old": 61.4019384,
+  "new": 61.4024116,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2021-10-01",
+  "old": 61.0981768,
+  "new": 61.1040163,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2021-11-01",
+  "old": 62.7801899,
+  "new": 62.7857119,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2021-12-01",
+  "old": 63.1128225,
+  "new": 63.1168686,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2022-01-01",
+  "old": 63.2875926,
+  "new": 63.2933461,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2022-02-01",
+  "old": 63.5070977,
+  "new": 63.5088812,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2022-03-01",
+  "old": 63.4816126,
+  "new": 63.4804272,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2022-04-01",
+  "old": 63.6680685,
+  "new": 63.6676224,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2022-05-01",
+  "old": 63.7457251,
+  "new": 63.743267,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2022-06-01",
+  "old": 64.0871217,
+  "new": 64.0829083,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2022-07-01",
+  "old": 63.9967256,
+  "new": 63.9929764,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2022-08-01",
+  "old": 64.1914514,
+  "new": 64.1998138,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2022-09-01",
+  "old": 64.0883977,
+  "new": 64.0860493,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2022-10-01",
+  "old": 64.1207515,
+  "new": 64.1306402,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2022-11-01",
+  "old": 64.2880937,
+  "new": 64.2962952,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2022-12-01",
+  "old": 64.1306177,
+  "new": 64.136714,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2023-01-01",
+  "old": 64.0427829,
+  "new": 64.0499399,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2023-02-01",
+  "old": 64.0329264,
+  "new": 64.0339512,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2023-03-01",
+  "old": 64.2665037,
+  "new": 64.2643598,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2023-04-01",
+  "old": 64.1195154,
+  "new": 64.1178987,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2023-05-01",
+  "old": 64.3817876,
+  "new": 64.3777238,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2023-06-01",
+  "old": 64.285965,
+  "new": 64.2791128,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2023-07-01",
+  "old": 64.1362421,
+  "new": 64.1285489,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2023-08-01",
+  "old": 64.3082014,
+  "new": 64.3166789,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2023-09-01",
+  "old": 64.1295239,
+  "new": 64.1266365,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2023-10-01",
+  "old": 64.2649395,
+  "new": 64.282276,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2023-11-01",
+  "old": 64.3590498,
+  "new": 64.370086,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2023-12-01",
+  "old": 64.0012373,
+  "new": 64.0087897,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2024-01-01",
+  "old": 63.842148,
+  "new": 63.8498429,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2024-02-01",
+  "old": 64.1779312,
+  "new": 64.1777478,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2024-03-01",
+  "old": 63.9378084,
+  "new": 63.9351753,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2024-04-01",
+  "old": 64.0200864,
+  "new": 64.0165416,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2024-05-01",
+  "old": 64.0700356,
+  "new": 64.0639139,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2024-06-01",
+  "old": 64.0946999,
+  "new": 64.0850459,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2024-07-01",
+  "old": 64.262883,
+  "new": 64.2514933,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2024-08-01",
+  "old": 64.3050341,
+  "new": 64.3130868,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2024-09-01",
+  "old": 64.3937586,
+  "new": 64.392613,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2024-10-01",
+  "old": 64.2975468,
+  "new": 64.3232882,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2024-11-01",
+  "old": 64.2831384,
+  "new": 64.2957042,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2024-12-01",
+  "old": 64.407681,
+  "new": 64.4160858,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2025-01-01",
+  "old": 64.4183749,
+  "new": 64.4265503,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2025-02-01",
+  "old": 63.9506817,
+  "new": 63.9501605,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2025-03-01",
+  "old": 63.9697787,
+  "new": 63.9664645,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2025-04-01",
+  "old": 64.3514012,
+  "new": 64.3458066,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2025-05-01",
+  "old": 64.2331549,
+  "new": 64.2256127,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2025-06-01",
+  "old": 64.0447693,
+  "new": 64.0325444,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2025-07-01",
+  "old": 64.1463986,
+  "new": 64.1309171,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2025-08-01",
+  "old": 63.9835109,
+  "new": 63.9899041,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2025-09-01",
+  "old": 63.9570114,
+  "new": 63.9579457,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2025-10-01",
+  "old": 64.0224461,
+  "new": 64.0568858,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2025-11-01",
+  "old": 63.7602281,
+  "new": 63.7739433,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2025-12-01",
+  "old": 63.9322636,
+  "new": 63.9406447,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2026-01-01",
+  "old": 63.9608498,
+  "new": 63.9689232,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2026-02-01",
+  "old": 63.9404605,
+  "new": 63.9387928,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2026-03-01",
+  "old": 63.9152944,
+  "new": 63.911744,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2026-04-01",
+  "old": 63.6713324,
+  "new": 63.6641116,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2026-05-01",
+  "old": 63.7573535,
+  "new": 63.7479092,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2026-06-01",
+  "old": 64.0223822,
+  "new": 64.0073123,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2026-07-01",
+  "old": 63.8509037,
+  "new": 63.8320784,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2026-08-01",
+  "old": 63.8796533,
+  "new": 63.8648674,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ },
+ {
+  "series": "employment_population_ratio",
+  "period": "2026-09-01",
+  "old": 63.6130534,
+  "new": 63.6108945,
+  "source": "ABS_LF_MAIN",
+  "detected_at": "2026-11-19T02:29:39.772329+00:00"
+ }
+]
