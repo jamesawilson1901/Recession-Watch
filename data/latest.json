@@ -1,7 +1,7 @@
 {
  "schema": "arw-latest/1",
- "generated_at": "2026-11-27T03:36:36.981574+00:00",
- "generated_at_brisbane": "27 Nov 2026 13:36 AEST",
+ "generated_at": "2026-11-27T09:03:34.669498+00:00",
+ "generated_at_brisbane": "27 Nov 2026 19:03 AEST",
  "signal_index": {
   "id": "SIGNAL-INDEX",
   "version": "0.1.0-experimental",
@@ -1006,7 +1006,7 @@
   "ABS_NA_KEY": {
    "publisher": "ABS",
    "title": "Australian National Accounts: National Income, Expenditure and Product",
-   "last_check_at": "2026-11-27T03:36:36.981574+00:00",
+   "last_check_at": "2026-11-27T09:03:34.669498+00:00",
    "state": "current",
    "last_error": null,
    "content_hash": "d84e0247621ed23e72889a7ae15d9f64c078adff79d3a30031a5ce8ccd18bd2d",
@@ -1021,7 +1021,7 @@
   "ABS_LF_MAIN": {
    "publisher": "ABS",
    "title": "Labour Force, Australia (Table 1)",
-   "last_check_at": "2026-11-27T03:36:36.981574+00:00",
+   "last_check_at": "2026-11-27T09:03:34.669498+00:00",
    "state": "current",
    "last_error": null,
    "content_hash": "452189c344f08466c58c8d61280dffb5375f5a3f469471794580dd4a4112402f",
@@ -1036,7 +1036,7 @@
   "RBA_F1": {
    "publisher": "RBA",
    "title": "RBA Statistical Table F1.1 Interest Rates and Yields - Money Market",
-   "last_check_at": "2026-11-27T03:36:36.981574+00:00",
+   "last_check_at": "2026-11-27T09:03:34.669498+00:00",
    "state": "parse_failed",
    "last_error": "ValueError: series not found in workbook: ['FIRMMCRTD']"
   }
